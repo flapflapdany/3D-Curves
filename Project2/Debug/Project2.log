@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\vikto\source\repos\project2\project2\source.cpp(20): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\vikto\source\repos\project2\project2\source.cpp(21): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Project2.vcxproj -> C:\Users\vikto\source\repos\Project2\Debug\Project2.exe
